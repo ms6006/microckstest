@@ -127,7 +127,7 @@
                 "examples": {
                   "OK": {
                     "value": {
-                      "test": "200"
+                      "test": "YES"
                     }
                   }
                 }
